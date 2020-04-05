@@ -9,4 +9,3 @@ Due to the Coronavirus, most (hopefully all!) software development companies are
 These are a new set of challenges for most groups, and I believe many of them can be addressed simply by writing and sharing more.  
 
 We can cull our meetings and use our time more efficiently.  
-
