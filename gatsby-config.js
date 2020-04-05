@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Christopher Willard Blog`,
+    title: `Discoveries & Musings`,
     author: {
       name: `Christopher Willard`,
-      summary: `lives in FL with his wife and two little girls`,
+      summary: `, a software engineer/manager, who lives in FL with his wife and two little girls.`,
     },
     description: `bloggin' about software engineering and family life`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
