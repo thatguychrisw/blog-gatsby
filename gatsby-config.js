@@ -6,7 +6,7 @@ module.exports = {
             summary: `, a software engineer/manager, who lives in FL with his wife and two little girls.`,
         },
         description: `bloggin' about software engineering and family life`,
-        siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+        siteUrl: `https://blog.christopherwillard.com/`,
         social: {
             twitter: `chriswillardFL`,
         },
@@ -61,13 +61,13 @@ module.exports = {
         {
             resolve: `gatsby-plugin-manifest`,
             options: {
-                name: `Gatsby Starter Blog`,
+                name: `Discoveries & Musings`,
                 short_name: `GatsbyJS`,
                 start_url: `/`,
                 background_color: `#ffffff`,
                 theme_color: `#663399`,
                 display: `minimal-ui`,
-                icon: `content/assets/gatsby-icon.png`,
+                icon: `content/assets/me.jpg`,
             },
         },
         `gatsby-plugin-react-helmet`,
